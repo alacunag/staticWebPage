@@ -1,1 +1,3 @@
-<?php require_one=("index.html")?> 
+<?php 
+require_one './index.html';
+?> 
